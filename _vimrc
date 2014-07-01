@@ -55,6 +55,12 @@ noremap   <Delete>  <NOP>
 noremap   <PageUp>  <NOP>
 noremap   <PageDown>  <NOP>
 
+"Won't use these for a while.
+noremap h <NOP>
+noremap j <NOP>
+noremap k <NOP>
+noremap l <NOP>
+
 set guioptions-=m "remove menu
 set guioptions-=T "remove toolbaru
 set guioptions-=r "remove right-hand scroll bar
